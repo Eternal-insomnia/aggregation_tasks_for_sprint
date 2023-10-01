@@ -6,4 +6,7 @@ https://www.figma.com/file/nhA62QKj3oas9A4pRaaY2J/INNOGLOBALHACK?type=design&nod
 
 # Команды для react
 npm i axios
+
 npm i emailjs
+
+npm i emailjs-com
